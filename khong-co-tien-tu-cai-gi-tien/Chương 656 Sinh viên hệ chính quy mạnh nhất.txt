@@ -1,0 +1,253 @@
+Chương 656: Sinh viên hệ chính quy mạnh nhất.
+
+Tại Đại học Vạn Pháp.
+
+Lượng lớn sinh viên đang vừa học tập, làm việc, vừa theo dõi trận quyết chiến này giữa Trương Vũ và Cuồng Thiên Khuynh. Dẫu sao đối với nhiều sinh viên, việc quan sát trận đấu này bản thân nó đã là một loại học tập.
+
+Trong lớp học, Công Thâu Tẫn nhìn vào hình ảnh Trương Vũ trong nhãn hài, thầm nhủ: Trương Vũ có thể thắng không?
+
+Tại công trường tầng 671, hình ảnh trận quyết chiến của nguyên sinh viên hệ Thổ mộc Trương Vũ càng được trình chiếu trực tiếp. Thi Hoài Ngọc đỏ bừng mặt nhìn màn hình, nhãn hài liên tục cập nhật biến động giá tiền tệ và cổ phiếu của Vạn Pháp, trong lòng gào thét: Xông lên! Trương Vũ! Đánh trả lại toàn bộ giá trị tiền tệ đã sụt giảm sau cái chết của Đạo Càn Khôn đi!
+
+Còn tại văn phòng hệ Thổ mộc.
+
+Cao Chủ nhiệm cũng đang quan sát cuộc chiến. Trong quá trình đó, ông liên tục gửi những biến hóa trên chiến trường cho Từ Cực Chân Quân đang bế quan, bao gồm đủ loại ảnh chụp màn hình và thông tin văn bản. Mặc dù Từ Cực Chân Quân đang bế quan chưa từng đoái hoài đến ngoại giới, nhưng Cao Chủ nhiệm vẫn hy vọng khi bà xuất quan có thể thấy được tin tức của Trương Vũ tại Thập Đại Liên Minh sớm nhất.
+
+Cao Chủ nhiệm: Trương Vũ lập trận thành công rồi, Cuồng Thiên Khuynh bắt đầu phá trận…
+
+Cao Chủ nhiệm: Kim Đan báo phế rồi, cả hai đều móc Kim Đan mới ra thay vào…
+
+Cao Chủ nhiệm: Lại thay đan rồi.
+
+Cao Chủ nhiệm: Long thú của Trương Vũ cạn kiệt rồi…
+
+Cao Chủ nhiệm: Sức mạnh song tu của Cuồng Thiên Khuynh hình như sắp dùng hết rồi…
+
+Thổ Lực Sơn ngồi bên cạnh nhìn khung hình livestream, cảm thán: Đã kịch chiến gần 10 tiếng đồng hồ, tôi không ngờ Trương Vũ cư nhiên có thể đi tới bước này.
+
+Hiện tại tính từ khi Thập Đại Liên Minh bắt đầu mới qua chưa đầy hai tháng phải không, cậu ta thực sự đuổi kịp trình độ của Cuồng Thiên Khuynh rồi sao?
+
+Cao Chủ nhiệm vừa xem vừa nói: Trong hai tháng này, thực lực của cậu ấy quả thực thăng tiến cực đại.
+
+Bộ Bích Thủy Kim Tinh Giáp mà Từ Cực luyện chế cho cậu ấy giúp cải tạo môi trường nhanh chóng, long thú phồn dưỡng vừa có thể trợ chiến, vừa giúp thi công. Trong 10 tiếng này, thông qua việc đôi bên đấu pháp xây dựng và phá hủy đại trận, đã kéo đi một phần tâm trí đáng kể của Cuồng Thiên Khuynh.
+
+Cao Chủ nhiệm không biết Trương Vũ còn tu luyện môn hắc công pháp Yêu Thánh Vạn Biến Thần Kinh, trong mắt ông là Trương Vũ cực kỳ có thiên phú trong việc điều khiển và phồn dưỡng yêu thú, chỉ huy yêu thú trong mỗi trận đều vô cùng chuẩn xác.
+
+Còn bộ Thất Tuyệt Pháp Hài được bảy vị Nguyên Anh hệ Luyện khí cải tạo, không chỉ cường hóa Thiên Côn Lôn Di Sơn Thần Lực, mà còn có chiêu Mặt trời Tiên đạo liên động với các sức mạnh quân dụng khác.
+
+Mặt trời Tiên đạo này giờ nhìn lại đã có biến hóa, sau khi ứng dụng quy mô nhỏ thì số lần thi triển nhiều hơn, sức phá hoại vẫn đủ để đe dọa Cuồng Thiên Khuynh.
+
+Cộng thêm pháp Toái Đan vừa luyện thành dưới sự hỗ trợ của Hiệu trưởng, tuy nhìn chỉ có hơn mười cấp, chưa viên mãn bằng Cuồng Thiên Khuynh, nhưng cũng đã là trình độ Trúc Cơ, đủ để đấu với cô ta một trận ra trò…
+
+Thổ Lực Sơn bổ sung: Nhưng quan trọng nhất vẫn là thanh kiếm đó nhỉ. Ông ta có chút ghen tị nhìn thanh trường kiếm xoắn ốc trong tay Trương Vũ: Chỉ dựa vào bản lĩnh của riêng Trương Vũ, e là chung quy vẫn kém Cuồng Thiên Khuynh một chút.
+
+Nhưng thanh kiếm này hội tụ toàn bộ tài sản của vị thiên tài đỉnh cấp Đại học Thiên Kiếm, biến toàn bộ tu vi, pháp hài, thần linh căn thành kiếm, còn hòa quyện cả sức mạnh hủy diệt của Cực Tình Kiếm Đạo vào trong. Trương Vũ trước và sau khi cầm kiếm, thực lực tổng hợp cứ như hai người khác nhau vậy.
+
+Có thanh kiếm này, mỗi đòn đánh của cậu ấy đều có thể đe dọa Cuồng Thiên Khuynh, phá giải được Thiên Ma Hư Không Pháp, Huyền Minh Quy Khư Quyết và Chú Thiên Vạn Ma Tọa. Tuy vẫn bị suy yếu tầng tầng lớp lớp, nhưng ít nhất đã có thể làm bị thương Cuồng Thiên Khuynh rồi…
+
+Dù miệng luôn ghen tị với sức phá hoại và thực lực mà thanh kiếm mang lại, nhưng Thổ Lực Sơn hiểu rõ ông ta không chỉ ghen tị với giá trị thanh kiếm. Thứ ông ta ghen tị hơn chính là việc Trương Vũ có một người sẵn lòng hy sinh vì mình đến mức đó.
+
+Thổ Lực Sơn thầm nghĩ: Trương Vũ rốt cuộc đã làm gì Bạch Chân Chân? Cho mượn nhiều linh tệ? Hay là luôn song tu miễn phí cho cô ấy? Hay Bạch Chân Chân là do Trương Vũ đẻ ra? Là cha hay mẹ cô ấy? Mà tuổi tác cũng không khớp… Ông ta nghĩ nát óc cũng không thông.
+
+Lắng nghe phân tích của Thổ Lực Sơn, Cao Chủ nhiệm không lên tiếng. Ông nhớ lại lời khuyên mình từng dành cho Trương Vũ, hy vọng cậu tránh xa Bạch Chân Chân – kẻ điên tu luyện Cực Tình Kiếm Đạo. Không ngờ lần này, Bạch Chân Chân lại phô diễn thực lực siêu việt, không chỉ đẩy Cực Tình Kiếm Đạo tới mức đăng phong tạo cực đủ đe dọa Cuồng Thiên Khuynh, mà còn tự hy sinh hóa thân thành kiếm để trợ giúp Trương Vũ.
+
+Khi người và kiếm cùng bước lên chiến trường, dường như đã nảy sinh một loại phản ứng huyền bí, thực lực của Trương Vũ tự thăng tiến một bậc, tính bền bỉ của Cực Tình kiếm khí lại càng tăng vọt liên tục. Cao Chủ nhiệm nét mặt phức tạp, thầm nhủ: Đánh cược mạng sống để giúp Trương Vũ một trận chiến… mối quan hệ của hai đứa này sâu đậm hơn ta tưởng.
+
+Đặc biệt sau khi nhân kiếm hợp bích, gạt bỏ sức phá hoại từ kiếm khí, bản thân chiến lực của cậu ta cũng bùng nổ đáng kinh ngạc, e là…
+
+Cao Chủ nhiệm đương nhiên không biết nội tình Trương Vũ và Bạch Chân Chân trao đổi linh căn, lúc này song linh căn trong người Trương Vũ sau khi cầm kiếm đã nối liền thành một thể, không ngừng ảnh hưởng và tăng cường lẫn nhau, càng không biết Vũ linh căn và Chân linh căn đang cùng nhau tăng cường hiệu ứng bộ đồ của Đồ hình liên kết pháp thuật.
+
+Thế là trong mắt Cao Chủ nhiệm: Chẳng lẽ… không chỉ Bạch Chân Chân tu luyện Cực Tình Kiếm Đạo. Trương Vũ có phải cũng lén tu luyện môn này không? Nên song kiếm hợp bích mới có uy lực như vậy? Là Thất Tình Thần Quân mưu tính sao? Nghĩ đến đây, Cao Chủ nhiệm thấy một trận bất lực.
+
+Đúng lúc đó, khí thế của Cuồng Thiên Khuynh trong khung hình livestream tăng vọt liên tiếp, trong thoáng chốc đã tiếp cận vô hạn với Kim Đan, thậm chí tự bạo Kim Đan, tự bạo nhục thân để tung ra đòn chí mạng hướng về Trương Vũ.
+
+Cao Chủ nhiệm mắt đanh lại: Đòn đánh bỏ mạng thực sự.
+
+Tự bạo Kim Đan, tự bạo nhục thân, chiêu này cực kỳ hợp để phối hợp với U Minh Giải Thể Pháp để tấn công. Vốn dĩ kinh nghiệm của Cuồng Thiên Khuynh ở phương diện này vượt xa Trương Vũ, dùng đây làm đòn đánh cuối cùng để liều mạng chính là kéo Trương Vũ vào đường đua sở trường của cô ta. 10 tiếng kịch chiến liên tục, cô ta chính là đang chờ đợi cơ hội cuối cùng này. Bây giờ dù Trương Vũ cũng đánh cược mạng sống, liều mình tự bạo để chiến đấu, thì về mặt này tuyệt đối không bì lại một Cuồng Thiên Khuynh lão luyện.
+
+Cao Chủ nhiệm nhìn màn hình, lòng không khỏi lo lắng: Trương Vũ phải đỡ thế nào đây?
+
+…
+
+Trên chiến trường.
+
+Nhìn Cuồng Thiên Khuynh đang lao tới vây sát, thần sắc Trương Vũ lại bình tĩnh chưa từng có. Không hiểu sao, hắn lại nhớ tới cuộc trò chuyện với Phúc Cơ. Đó là cuộc đối thoại sau khi hắn sao chép Đạo chủng từ Đạo Càn Khôn.
+
+Khi đạt được sức mạnh của Tiên nhân hậu duệ, sở hữu năng lực không gian đó, Trương Vũ đã vô cùng chấn động. Bởi từ khi tới Côn Khư đến nay, hắn chưa từng thấy kỹ thuật tiên đạo ứng dụng lên không gian. Những thứ như nhẫn trữ vật, pháp bảo không gian, tấn công không gian, vặn vẹo không gian… Trương Vũ đều chưa từng gặp. Không… Trương Vũ chợt nhớ ra mình đã từng thấy. Khoảnh khắc từ Côn Khư tầng một lên tầng hai chính là một loại biến đổi không gian dữ dội, kỹ thuật ứng dụng trong đó hẳn liên quan đến không gian. Nhưng chỉ có vậy thôi, từ trước tới nay sức mạnh liên quan đến không gian Trương Vũ chưa từng gặp ở đại học, thậm chí không có nơi nào để học.
+
+Kỹ thuật không gian hẳn là thứ vô cùng thâm sâu. Trương Vũ thầm nghĩ: Nếu kỹ thuật không gian được phổ biến rộng rãi, thế giới e là lại có đại biến.
+
+Nên khi sở hữu năng lực khai mở không gian 10 mét khối, Trương Vũ có chút nghi hoặc. Đặc biệt sau khi cảm ứng thông tin trong Đạo chủng, hắn càng thấy do dự. Vì thế hắn tìm đến Phúc Cơ.
+
+Phúc Cơ, nếu sở hữu năng lực khai mở không gian, cô thấy ở Côn Khư nên sử dụng thế nào?
+
+Nghe Trương Vũ hỏi, Phúc Cơ thản nhiên: Đùa à, muốn động vào cấu trúc không gian của Côn Khư thì phải cần quyền năng và vị cách cao cỡ nào? Cô ta nói tiếp: Đừng mơ mộng nữa, 36 tầng Côn Khư là cấu trúc không gian do các Tiên nhân thiết kế và đúc nên, đã bị đóng đinh rồi, ai cho phép các người tùy tiện động vào? Về lý thuyết, mọi không gian trong Côn Khư đều là tài sản của Tiên nhân, chỉ cho các người dùng miễn phí thôi, còn muốn cắt vài đao tự mình bạo cải ? Thực sự làm được vậy thì cô tin không, chưa đầy vài năm, các công ty có thể biến Côn Khư thành hơn 365 tầng mất…
+
+Nghe Phúc Cơ trả lời, Trương Vũ biết sự do dự của mình là đúng, hắn thầm nhủ: Quả nhiên, năng lực không gian của Tiên nhân hậu duệ không thể tùy tiện động dụng, một khi bị phát hiện chắc chắn sẽ có rắc rối. Mà không gian 10 mét khối cùng cái miệng mở ra rộng 30 cm vuông… cỡ một nắm tay… Hắn cảm ứng thông tin Đạo chủng, thầm hiểu: Ý nghĩa của những thông số này chính là để ngăn chặn việc dễ dàng bị phát hiện sự biến đổi cấu trúc không gian, ngăn chặn các loại dò tìm không gian. Muốn khai mở không gian lớn hơn, miệng rộng hơn một cách an toàn, cần phải nâng cấp Đạo chủng Tiên nhân hậu duệ để nắm giữ quyền hạn cao hơn mới được.
+
+Trương Vũ đột ngột lĩnh ngộ được một điểm, đó là năng lực của Tiên nhân hậu duệ không chỉ là khai mở không gian, mà là khai mở không gian một cách bí mật, cái sự bí mật này vô cùng quan trọng. Nghĩ đến đây lòng hắn lại trào dâng một nghi hoặc khác.
+
+Hắn nói: Phúc Cơ, nói vậy việc thay đổi không gian… là lĩnh vực của Tiên nhân rồi? Chỉ Tiên nhân mới làm được sao?
+
+Phúc Cơ đáp: Một bộ phận cực nhỏ công pháp Tiên môn cũng làm được. Trương Vũ hỏi tiếp: Vậy… đồ đệ của Tiên nhân thì sao? Con cháu thì sao? Hậu duệ của Tiên nhân liệu có làm được không?
+
+Phúc Cơ cười: Học công pháp Tiên môn là làm được thôi, dù loại công pháp đó chắc chắn cực kỳ, cực kỳ khó kiếm. Trương Vũ lại hỏi: Hậu duệ Tiên nhân chẳng lẽ không thể trực tiếp làm được sao? Ví dụ trực tiếp nắm giữ một phần quyền hạn, năng lực của Tiên nhân…
+
+Phúc Cơ đáp: Chưa từng nghe qua. Nhưng sức mạnh huyết mạch loại này nếu thực sự liên quan đến không gian thì quá đáng sợ rồi. Loại hậu duệ Tiên nhân này sinh ra chẳng phải là sở hữu thiên phú buôn lậu, thiên phú vượt biên, thiên phú trốn thuế sao? Đúng là thiên tài tội phạm. Hạng người này nếu nhịn được mà không phạm tội thì đúng là kỳ tích. Tiên nhân tạo ra hậu duệ như vậy không sợ họ quấy đảo Côn Khư thành một đống hỗn độn sao? Thực sự làm vậy, các Tiên nhân khác cũng sẽ có ý kiến, hẳn là sẽ phản đối.
+
+Nghe những lời này của Phúc Cơ, não hải Trương Vũ lại hiện lên bóng dáng Đạo Càn Khôn, vị thiên kiêu của Đại học Vạn Pháp dường như xa không đơn giản như hắn từng tưởng. Thông qua cảm ứng Đạo chủng và giao lưu với Phúc Cơ, Trương Vũ càng thêm không nguyện ý để lộ năng lực này. Nhưng đó chỉ là góc độ của riêng hắn, hắn không muốn bị phát hiện và nỗ lực thực hiện điều đó, nhưng kết quả cuối cùng ra sao chung quy cũng chỉ có thể tận nhân sự tri thiên mệnh, không phải bản thân hắn có thể hoàn toàn xoay chuyển. Tuy nhiên, đối với những tu sĩ không nắm giữ năng lực không gian, việc muốn nhận ra sự thay đổi cấu trúc không gian vốn dĩ cũng gần như không thể.
+
+Hơn nữa sở dĩ Tiên nhân hậu duệ khai mở kích thước như vậy là bởi trong quyền hạn không gian hiện nắm giữ… sự biến đổi cấu trúc ở kích thước này là khó bị phát hiện nhất, bản thân nó là để chống lại sự dò tìm không gian. So với đó, thứ dễ bị nhận ra hơn có lẽ là sự biến đổi về thị giác. Ví dụ như trực tiếp nhìn thấy mình đưa đồ vật vào không gian, thì dù là thằng ngốc cũng thấy có vấn đề. Đặc biệt trong trận quyết chiến với Cuồng Thiên Khuynh, không biết bao nhiêu người đang quan sát mình qua livestream, sau này không biết sẽ bị xem đi xem lại bao lâu, nên việc che giấu thị giác là vô cùng quan trọng. Vậy thì, nếu mình muốn sử dụng năng lực không gian trong trận quyết chiến…
+
+…
+
+Chính là vào thời khắc tiếp theo đây.
+
+Trên chiến trường, Trương Vũ nhìn về phía Cuồng Thiên Khuynh. Kèm theo đòn đánh bỏ mạng của đối phương, cuồng phong quét qua, sóng xung kích bàng bạc bùng nổ theo đà di chuyển của nàng. Hào quang Kim Đan nổ tung thấu tận trời xanh, tựa như một mặt trời bị châm ngòi, bị kích nổ ngay trên đường chân trời, mang theo ánh sáng chói lòa tràn lấp nhãn hài của Trương Vũ.
+
+Trương Vũ dù quyết định dùng sức mạnh Tiên nhân hậu duệ, nhưng hiểu rõ chỉ dựa vào đơn độc một năng lực này là không đủ. Bởi đòn đánh này của Cuồng Thiên Khuynh chắc chắn kinh thiên động địa, phạm vi tấn công và phá hoại bao phủ hoàn toàn quanh thân Trương Vũ. Muốn dựa vào cái miệng không gian chỉ rộng 30 cm vuông – cỡ một nắm tay – để cản hoàn toàn chiêu này rõ ràng là viển vông.
+
+Tiên nhân hậu duệ là một sự hỗ trợ tuyệt hảo. Trương Vũ thầm nhủ: Nhưng bất kể là để yểm hộ cho Tiên nhân hậu duệ, hay để thắng Cuồng Thiên Khuynh một cách triệt để, mình không thể chỉ dựa vào nó… Đối mặt với một Cuồng Thiên Khuynh liều mạng, Trương Vũ cũng cần thúc đẩy mọi tài sản, mọi sức mạnh, mọi tinh thần trên người.
+
+Cuồng Thiên Khuynh, cô tưởng cô đã kéo được tôi vào đường đua của cô sao?
+
+Cô sai rồi Cuồng Thiên Khuynh, liều mạng… mới là đường đua sở trường của tôi.
+
+Hào quang Kim Đan vỡ vụn rực sáng trên người Trương Vũ. Rồi viên thứ hai! Thứ ba! Thứ tư! Tổng cộng bốn viên Kim Đan lần lượt vỡ vụn, kim quang chói mắt phá tan cơ thể Trương Vũ, như muốn xé xác hắn thành bốn phương tám hướng. Sức mạnh Toái Đan như thực thể chảy tràn ra từ người hắn, bao phủ và thúc đẩy cơ thể hắn như ngọn lửa!
+
+Tới đi, Cuồng Thiên Khuynh.
+
+Hãy dùng đòn đánh cuối cùng này để định đoạt thắng bại trận chiến.
+
+Vô số khán giả nhìn cảnh này với vẻ không thể tin nổi. Dạ Tinh Ly khoảnh khắc này cảm thấy vô cùng chấn động: Liên tục vỡ vụn bốn viên Kim Đan? Việc này đòi hỏi nhất tâm tứ dụng, đồng thời kiểm soát bốn lần đột phá Kim Đan, bốn lần vỡ đan, đây là loại năng lực tính toán và kiểm soát gì thế này?
+
+Cửu Thiên Lưu dõi theo cũng lộ dị quang: Phản phệ từ bốn tầng Kim Đan vỡ vụn, nhục thân cậu ta thực sự gánh nổi sao? Khác gì tự bạo đâu?
+
+Việc làm vỡ Kim Đan tự nhiên không thể không có tác dụng phụ. Mỗi lần vỡ đan trong khi đột phá đều gây tàn phá lên huyết nhục, kinh mạch, xương cốt, đan điền, linh căn… Như thời cổ đại, một tu sĩ Trúc Cơ nếu đột phá Kim Đan thất bại thì đó là một đại kiếp sinh tử, hậu quả trọng thương thậm chí khiến tu vi cả đời không thể tiến thêm. Ngay cả trong môi trường Côn Khư hiện đại, nếu không phải hạng tồn tại mạnh nhất Trúc Cơ như Cuồng Thiên Khuynh, Trương Vũ thì tuyệt đối không thể liên tục vỡ đan trong thời gian dài. Nhưng vỡ từng viên một và vỡ bốn viên một hơi vẫn là những khái niệm hoàn toàn khác biệt.
+
+Những tiếng nổ pằng pằng vang lên, huyết nhục Trương Vũ đột ngột nổ tung, lộ ra từng mảng xương trắng gãy lìa, nội tạng dập nát… Sức mạnh tứ trọng Toái Đan quán thông Thất Tuyệt Pháp Hài, nhãn hài Trương Vũ liên tục hiện ra hàng loạt cảnh báo: pháp hài chạm ngưỡng giới hạn, nhiệt độ quá cao, quá tải nghiêm trọng, độ bền sụt giảm cực nhanh.
+
+Mặt trời Tiên đạo! Ra cho ta!
+
+Dưới sự thúc đẩy cực hạn của Trương Vũ, cường chiêu mạnh nhất đời hắn được tung ra, tựa như một mặt trời nữa lừng lững mọc lên trên chiến trường. Nhìn đối thủ tung ra cường chiêu như vậy, trong lòng Cuồng Thiên Khuynh không hề có sự tôn trọng, tán thưởng hay hưng phấn gì. Chỉ có phẫn nộ, cơn thịnh nộ mãnh liệt bốc lên từ đáy lòng.
+
+Mịa nó… liều đến mức này rồi, tại sao ngươi vẫn có thể mạnh như thế?
+
+Tại sao phải mạnh đến mức này? Tại sao phải ngăn cản ta bước lên đỉnh cao? Ngăn cản ta tăng thọ cho thiên hạ?!
+
+Và cảm xúc phẫn nộ đó cũng được Cuồng Thiên Khuynh dùng để thúc đẩy sức mạnh, tăng cường uy lực cho đòn đánh cuối cùng.
+
+Vậy thì cùng chết đi! Cuồng Thiên Khuynh nộ hống: Để xem ai chết trước!
+
+Tựa như hai mặt trời va chạm vào nhau, hào quang đoạt mục nuốt chửng thân hình hai bên, nuốt chửng cả chiến trường. Khoảnh khắc này, cả Trương Vũ lẫn Cuồng Thiên Khuynh đều hiểu rõ, đối mặt với cường địch đã đánh cược mạng sống trước mắt, thắng bại sẽ được định đoạt bởi thứ tự tử vong của đôi bên.
+
+Đối mặt với vụ nổ Mặt trời Tiên đạo, đối mặt với nhiệt độ cao và xung lực từ sự va chạm sức mạnh của hai bên, cơ thể Trương Vũ lại bị trọng thương lần nữa. Dẫu sao vụ nổ của Mặt trời Tiên đạo vốn đã thương người hại mình, lúc này lại dùng sức mạnh tứ trọng Toái Đan thúc đẩy, lại đâm sầm vào đòn đánh bỏ mạng của Cuồng Thiên Khuynh, vụ nổ gây ra thực sự là hủy thiên diệt địa. Sương máu khắp người Trương Vũ bị bốc hơi trong tích tắc, các món Thất Tuyệt Pháp Hài cũng lần lượt rơi vào trạng thái hư hỏng. Lần đầu tiên Trương Vũ cảm nhận được Thổ Mộc Thánh Thể của mình đã chạm tới giới hạn, đang tiến tới cái chết một cách chưa từng có.
+
+Đúng lúc đó, một luồng kiếm khí trắng tinh khiết vút lên.
+
+Vũ tử! Hư ảnh Bạch Chân Chân hiện ra sau lưng Trương Vũ, cùng hắn nắm lấy chuôi kiếm: Hãy đi theo cảm giác của tớ.
+
+Chúng mình cùng ra kiếm.
+
+Dùng chút sức tàn cuối cùng, thúc động luồng kiếm khí cuối cùng, Trương Vũ kéo theo thân xác tàn tạ dưới sự chỉ dẫn của Bạch Chân Chân, hắn phi thân chém ra một kiếm. Kiếm khí màu trắng gian nan chém khai luồng loạn lưu trước mắt, tựa như muốn cắt xẻ từng tấc hai mặt trời trên chiến trường. Theo nhát kiếm phi thân này, hắn như nhân kiếm hợp nhất, cả cơ thể như một mũi kiếm sắc lẹm đâm về phía trước.
+
+Thế thân này giúp Trương Vũ khi đối mặt với sóng xung kích đã dùng tay chắn ở phía trước nhất, sau đó đầu và thân mình tạo thành một đường thẳng nằm sau cánh tay. Thế là sau khi thanh trường kiếm xoắn ốc chém khai sóng xung kích, làm yếu đi vụ nổ tràn tới, tại mặt lưng bàn tay cầm kiếm của Trương Vũ, một cái miệng thông tới dị không gian được mở ra. Giữa ánh sáng rực cháy và vụ nổ kinh thiên động địa, cái miệng không gian cỡ nắm tay liên tục nuốt chửng sóng xung kích tràn tới.
+
+Dù việc nuốt chửng này so với vụ nổ lay trời chuyển đất kia tỏ ra vô cùng nhỏ bé, vô cùng không đáng kể, nhưng trong tình cảnh đó, nó đã giúp áp lực lên phần đầu và thân mình nằm sau cánh tay Trương Vũ giảm đi rất nhiều. Tuy nhiên, dù có sự trợ lực của thanh kiếm, sự che chở của Tiên nhân hậu duệ, cộng thêm việc Trương Vũ đã cố thu nhỏ thân mình hết mức để né tránh dư chấn, thì cũng không thể hoàn toàn chặn được vụ nổ. Hắn chỉ có thể dốc hết sức để chống đỡ, kiên trì, huyết chiến, đốt cháy sinh mạng tới tận cùng.
+
+Rắc! Trên thân thanh trường kiếm xoắn ốc dần hiện ra những vết nứt.
+
+A Chân! Trương Vũ kinh hãi, theo bản năng định thu kiếm lại.
+
+Hư ảnh Bạch Chân Chân đột ngột ôm chặt lấy cơ thể Trương Vũ: Vũ tử! Gồng lên! Đừng quản tớ!
+
+Trương Vũ hít sâu một hơi: A Chân…
+
+Cuộc đối xung của đòn đánh cuối cùng chỉ diễn ra trong vài khoảnh khắc ngắn ngủi, nhưng Trương Vũ lại cảm thấy thời gian chậm lại như thể đã dừng hẳn. Nhìn thanh kiếm nứt vỡ từng mảnh, cảm nhận sinh cơ của mình dần vụt tắt, lòng Trương Vũ trào dâng sự không cam tâm và phẫn nộ mãnh liệt.
+
+Tại sao? Tại sao vẫn chưa phân thắng bại?
+
+Cuồng Thiên Khuynh vẫn chưa chết sao?
+
+Tại sao cô ta vẫn chưa chết?!
+
+Cùng lúc đó, trong bụng Cuồng Thiên Khuynh, một thân xác nhỏ bé đang phát ra tiếng khóc thét.
+
+Trương Vũ! Sao ngươi còn chưa chết!
+
+Ngay sau khi tự bạo Kim Đan và nhục thân, Cuồng Thiên Khuynh đã thay đổi nhục thân, chuyển di ý thức của mình sang một cụ Ma thai trong bụng. Chỉ vào khoảnh khắc cuối cùng khi nguyên thân bị bốc hơi hoàn toàn, cụ Ma thai này mới bị tiêu diệt. Nhưng ngay lúc này, cảm nhận nguyên thân của mình đã bị bốc hơi quá một nửa mà thắng bại vẫn chưa phân định, Cuồng Thiên Khuynh cảm thấy vô cùng nóng nảy và căng thẳng.
+
+Khi cơ thể bốc hơi quá tám phần, sự bất an trỗi dậy. Khi chín phần chín cơ thể bị bốc hơi, khi Ma thai bị phơi bày giữa vụ nổ, một luồng không cam tâm, bất phẫn  chưa từng có trào dâng. Và tất cả những biến đổi tinh thần này cũng chỉ diễn ra trong vài khoảnh khắc ngắn ngủi khi đòn cuối cùng va chạm.
+
+Mọi sức mạnh đã cạn kiệt, mọi pháp hài pháp bảo đã hư hỏng, và sinh mạng của Cuồng Thiên Khuynh cũng đi tới tận cùng.
+
+Khốn kiếp!
+
+Tại sao! Tại sao gồng tới mức này mà ngươi vẫn không chết!
+
+Ta đã trả giá tất cả, ta đại diện cho đại thế thiên hạ, tại sao… tại sao…
+
+Giây tiếp theo, hào quang rực lửa nuốt chửng hoàn toàn Ma thai.
+
+…
+
+Khi Trương Vũ tỉnh táo lại, hắn thấy mình đang đứng trên một vùng đất cháy xém, bụi mù đậm đặc bốc lên che khuất tầm nhìn. Hư ảnh Bạch Chân Chân hiện ra bên cạnh, đang mỉm cười nhìn hắn: Vũ tử! Chúng mình thắng rồi.
+
+Trương Vũ giật mình, não hải nhớ lại cảnh tượng trước khi sinh mạng đi tới tận cùng vừa rồi. Ngay thời khắc cuối cùng đó, một tầng thần quang đột ngột hạ xuống, che chở cho phạm vi mười mét quanh hắn, chặn đứng toàn bộ dư chấn chiến đấu. Kế đó, từng đạo sức mạnh từ trị liệu phù chú rơi xuống người hắn, giữ lại mạng sống cho hắn.
+
+Trương Vũ thầm nhủ: Cuồng Thiên Khuynh đã chết trước một bước rồi sao? Mình đã trở thành quán quân, thắng trận này, nên được giữ lại mạng sống. Là vì cảm thấy quán quân Thập Đại Liên Minh đường đường mà chết thì khó coi quá sao?
+
+Đúng lúc đó, mười đạo thần quang liên tiếp rực sáng xung quanh. Trương Vũ ngẩng đầu nhìn, thấy những danh hiệu dày đặc hiện ra trong thần quang, lấp lánh trước mắt. Mười đạo thần quang này đại diện cho mười vị Hiệu trưởng Hóa Thần của Thập Đại cao hiệu. Và đằng sau mười đạo thần quang đó, lại có một hình chiếu Chính Thần từ trên trời giáng xuống, vượt qua trùng trùng Linh giới, phóng chiếu hình tượng vào đại khí.
+
+Chúc mừng ngươi, Trương Vũ.
+
+Nhìn vị Chính Thần này, Trương Vũ rùng mình kinh hãi, bởi trên đầu đối phương hiển hiện dòng chữ: Chúng Sinh Thiên Sinh Đại Thần.
+
+Vị Đại Thần này chính là vị đứng đầu Vạn Dân Bộ trong Bát Bộ Chính Thần, cũng là vị Chính Thần duy nhất Trương Vũ từng dùng phù lục để bái lạy. Chúng Sinh Thiên Sinh Đại Thần mỉm cười với Trương Vũ: Ngươi đã thắng trận chung kết, trở thành hạng nhất kỳ Thập Đại Liên Minh này, sinh viên hệ chính quy mạnh nhất Thập Đại.
+
+Một ngày sau, lễ trao giải sẽ diễn ra, danh mục Đạo Tạng cũng sẽ chính thức giáng lâm tại buổi lễ. Khi đó, ngươi có thể tùy chọn một môn công pháp trên danh mục Đạo Tạng làm phần thưởng quán quân. Nói đến đây, vị Đại Thần tới từ Thiên Đình mỉm cười: Tuy nhiên trạng thái hiện tại của ngươi không tốt lắm…
+
+Từ trong thần quang đại diện cho Thiên Diễn Thần Quân của Đại học Vạn Pháp truyền ra một giọng nói: Trong vòng một ngày, Đại học Vạn Pháp sẽ tu sửa hoàn toàn cơ thể và pháp hài cho Trương Vũ.
+
+Chúng Sinh Thiên Sinh Đại Thần mỉm cười gật đầu, nhưng rồi lại lắc đầu: Chỉ sợ lúc này đây, có không ít tà giáo tà thần, cùng những kẻ có ý đồ xấu đều đang nảy ra ý định không hay. Trong vòng một ngày này, bắt buộc phải bảo đảm an toàn cho quán quân.
+
+Thiên Diễn Thần Quân khẳng định: Đại học Vạn Pháp chắc chắn sẽ dốc toàn lực đảm bảo an toàn cho Trương Vũ.
+
+Chúng Sinh Thiên Sinh Đại Thần thản nhiên: Thiên Diễn, không phải ta không tin năng lực của Vạn Pháp, chỉ là đại lễ trao giải không cho phép có sai sót, trong một ngày này… Vị Đại Thần liếc nhìn Trương Vũ, giây tiếp theo một lá phù lục đã hiện ra trên đầu hắn.
+
+Thần Tí Phù!
+
+Lá phù vừa hạ xuống, trong mắt mọi vị Thần Quân Hóa Thần đang nhìn về phía Trương Vũ đều hiện ra hàng loạt thông báo:
+
+Ra tay với Trương Vũ, phạt 1 triệu linh tệ.
+
+Mọi Chính Thần, trong thời gian Thần Tí Phù còn hiệu lực, bất chấp giá nào bảo vệ Trương Vũ.
+
+Khi gặp tấn công, đồng thời kích phát 1024 loại phản ứng phù chú…
+
+Đường truyền Linh giới chuyên dụng, khi chết hồn phách thông thẳng tới Vạn Dân Bộ…
+
+Nhìn hàng hàng lớp lớp chữ giới thiệu dày đặc dưới lá Thần Tí Phù, Trương Vũ chỉ có một cảm giác… hắn vô địch rồi. Nhưng nhìn thời gian hiệu lực cuối cùng của phù, Trương Vũ thầm nhủ: Thời gian vô địch tầm một ngày, tức là đợi mình chọn xong công pháp Tiên môn là cái vô địch này biến mất. Là để đảm bảo mình có thể chọn công pháp Tiên môn, đảm bảo công pháp đó có thể truyền xuống sao? Nhưng sau khi chọn xong… Trương Vũ thầm nghĩ: Khi đó sẽ không còn sức mạnh này bảo vệ mình nữa.
+
+Cùng lúc đó, các vị Thần Quân Hóa Thần tại hiện trường cũng nảy sinh ý nghĩ tương tự, và biết rõ trong một ngày tới, một cuộc cạnh tranh chưa từng có sẽ diễn ra giữa mười trường. Tự Tại Thần Quân  thầm nhủ: Dù Cuồng Thiên Khuynh bại nhưng chúng ta chưa thua, chỉ cần vào phút chót khiến Trương Vũ hạ quyết tâm chọn môn công pháp đó… Thiên Tinh Thần Quân  lạnh cười: Cuồng Thiên Khuynh hay Trương Vũ thắng cũng không quan trọng, tiếp theo chẳng qua là cuộc đấu giữa các trường, xem ai kiểm soát được ý chí của quán quân thôi. Thiên Diễn Thần Quân  thầm nhủ: Vốn đầu tư của Thiên Ma bốn trường vào Cuồng Thiên Khuynh coi như đổ sông đổ biển, dù số vốn đó với họ cũng chẳng đáng là bao. Tiếp theo mới là lúc thực sự quyết thắng bại, Trương Vũ đoạt quán quân tuy chiếm được tiên cơ nhưng rất có thể dẫn tới sự phản kháng liên thủ của các trường khác…
+
+Ngay khoảnh khắc Trương Vũ và các vị Thần Quân chìm trong suy tư, Chúng Sinh Thiên Sinh Đại Thần thản nhiên nói: Vậy hẹn gặp lại sau một ngày.
+
+Theo đà hình chiếu của vị Đại Thần tan biến, mười đạo thần quang xung quanh nháy mắt ùa về phía Trương Vũ. Giọng của Thiên Diễn Thần Quân truyền vào tai Trương Vũ: Đi thôi Trương Vũ, chúng ta về bàn chuyện em được tuyển thẳng lên Thạc sĩ, Tiến sĩ, hỗ trợ em đột phá Hóa Thần trong tương lai, mọi chi phí tu luyện miễn phí hoàn toàn.
+
+Đúng lúc đó, Thần Quân của Đại học Tiên Binh cũng truyền âm: Trương Vũ, em không định vẫn muốn đi học đấy chứ? Em qua Đại học Tiên Binh, em muốn làm gì cũng được. Còn Vạn Pháp ký hợp đồng gì với em chưa? Tiền vi phạm hợp đồng ta bồi thường giúp em là được.
+
+Hợp đồng cá nhân là sự hạn chế cực lớn đối với cá nhân, đủ để khiến người ta tán gia bại sản. Nhưng mức bồi thường cũng có giới hạn trần, không thể có chuyện một bản hợp đồng bắt sinh viên Trúc Cơ bồi thường cả một Côn Khư, Chính Thần cũng không bao giờ ủng hộ những hợp đồng phi lý như vậy. Và bất kể mức trần bồi thường có khủng bố thế nào, đối với một ngôi trường trong Thập Đại thì chắc chắn nằm trong phạm vi chi trả của họ. Khi mục tiêu là công pháp Tiên môn, khoản bồi thường cá nhân này càng không được các Hiệu trưởng để vào mắt.
+
+Ngay khi hai vị Hiệu trưởng Vạn Pháp và Tiên Binh lần lượt truyền âm, Hiệu trưởng Đại học Thiên Yêu cười lớn, dõng dạc nói: Trương Vũ, nếu ngươi sẵn lòng chọn môn công pháp Tiên môn mà Thiên Yêu chúng ta muốn, ta sẽ chuyển trường cho ngươi, sau này ghế Hiệu trưởng là của ngươi, do ngươi làm Hiệu trưởng. Hiệu trưởng Đại học Thiên Yêu Trương Vũ, ngươi thấy thế nào?
+
+Nghe cách nói của phía Thiên Yêu, chín vị Thần Quân còn lại kẻ thì phẫn nộ, kẻ lạnh cười, kẻ lặng thinh… Có lẽ trên đời sẽ có kẻ ngây ngô, ngu muẩn tin rằng vị Hiệu trưởng này thực sự muốn đưa Trương Vũ lên ghế Hiệu trưởng, nhưng hiện trường rõ ràng không có loại người đó, chẳng ai nghĩ ông ta thực sự có quyết tâm và năng lực để làm Trương Vũ thành Hiệu trưởng Thiên Yêu cả.
+
+Trương Vũ nhìn đạo thần quang đại diện Thiên Yêu, thầm nhủ: Lão yêu quái này nói năng bừa bãi, mở miệng là bốc phét… hẳn là thấy mình kiểu gì cũng không chọn Thiên Yêu nên cố ý tới quấy đảo cho loạn đây mà?
+
+Đồng thời, từ thần quang Đại học Đan Đỉnh truyền tới giọng nữ trong trẻo: Lão bùn nhão , đây là thảo luận nội bộ nhân tộc, không tới lượt ông xía mồm vào. Trương Vũ có Đại Thần che chở, không ai động được, nhưng ông thì không đâu.
+
+Nương theo tiếng nói của từng vị Hóa Thần, bầu không khí tại hiện trường ngày càng trầm mặc, và trở nên căng thẳng, kịch liệt hơn bao giờ hết, dường như xung đột sắp bùng nổ bất cứ lúc nào. Giữa bầu không khí ngàn cân treo sợi tóc đó, Thiên Diễn Thần Quân thản nhiên nói: Các vị, Trương Vũ vừa đấu xong, trọng thương đầy mình, các vị có chuyện gì hãy đợi cậu ấy hoàn thành trị liệu rồi hãy nói.
+
+Cùng lúc đó, một chiếc phi thuyền do Đại học Vạn Pháp sắp xếp đã hạ xuống trước mặt Trương Vũ, chở hắn vút một tiếng rời khỏi hiện trường. Nhưng ai cũng biết, mọi chuyện không kết thúc đơn giản như vậy.
+
+Một cuộc đấu tranh kịch liệt hơn, thâm sâu hơn, và cũng đen tối hơn chính Thập Đại Liên Minh, sắp sửa lấy Trương Vũ làm trung tâm mà khai màn.

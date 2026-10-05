@@ -1,0 +1,115 @@
+Chương 571: Thiết kế bản vẽ hoàn tất, thử nghiệm mô phỏng.
+
+Địa điểm tham gia thử nghiệm nằm tại một trường thượng đẳng có khoảng cách tương đương tới các trường Thập Đại.Trương Vũ được dẫn vào một căn phòng khép kín để chờ đợi cuộc thử nghiệm bắt đầu. Trong suốt thời gian này, đừng nói đến giám khảo, ngay cả các thí sinh khác hắn cũng chẳng thấy mặt một ai.
+
+Cho đến khi thử nghiệm chính thức bắt đầu, cùng với nội dung và từng điều luật hiện lên trong nhãn hài, Trương Vũ cảm nhận được kết nối giữa mình và Linh giới đột ngột bị ngắt đứt.
+
+Yêu cầu ngắt mạng trong quá trình thử nghiệm sao?
+
+Trương Vũ xem quy tắc thử nghiệm, quả nhiên trên đó ghi rõ trong thời gian này không thể kết nối vào mạng công cộng Linh giới. Tuy nhiên, ban tổ chức cung cấp một mạng nội bộ Linh giới để sử dụng, có thể tra cứu các tài liệu tham khảo đã được chuẩn bị sẵn.
+
+Sau khi lướt qua một lượt quy tắc, Trương Vũ nhìn vào nội dung thử nghiệm cụ thể. Hắn tổng kết lại trong đầu: Ừm, chính là phải thiết kế một loại pháp bảo, có thể tìm kiếm, thu nạp, thu nhặt và vận chuyển vật phẩm… trong một địa hình phức tạp liên tục bị lôi hỏa giáng xuống.
+
+Sau khi bản vẽ thiết kế hoàn thành, sẽ tiến hành thử nghiệm mô phỏng pháp bảo trong Linh giới.
+
+Trong thời gian quy định, thu nhặt và vận chuyển càng nhiều vật phẩm thì thành tích càng tốt.
+
+Ánh mắt Trương Vũ khẽ động, nhìn sang phần giới thiệu về bãi thử nghiệm dưới sự mô phỏng của Linh giới. Đó là một khu vực rộng khoảng 10 km vuông, bao gồm bãi cát, rừng rậm, hồ nước… với đủ loại địa hình khác nhau. Pháp bảo do người dự thi thiết kế phải tìm kiếm các vật phẩm chỉ định trong môi trường phức tạp này và vận chuyển đến các địa điểm khác nhau đã được định sẵn.
+
+Trương Vũ xem danh sách vật phẩm cần tìm kiếm: ngoài các khối cầu, khối lập phương, hình trụ, hình nón đủ màu sắc rải rác khắp nơi, còn có một số loại cỏ cây trúc đá chỉ định, các loại dược liệu, khoáng vật, thực vật, thậm chí là chất lỏng và khí gas tại các địa điểm cụ thể…
+
+Nhìn từng yêu cầu chi tiết này, Trương Vũ thầm nhủ: Món pháp bảo này phải có khả năng chống đỡ lôi hỏa.
+
+Phải có khả năng di chuyển tốc độ cao trong môi trường phức tạp.
+
+Còn phải có khả năng truy xuất các vật phẩm có màu sắc và hình dạng khác nhau giữa bối cảnh hỗn loạn.
+
+Sau đó còn phải thu nhặt và vận chuyển được các vật phẩm có hình dạng khác nhau, kể cả dạng lỏng và khí…
+
+Trương Vũ càng xem, ánh mắt càng trở nên nghiêm túc: Cuối cùng và cũng là điểm mấu chốt nhất, giá thành phải khống chế dưới 30 linh tệ.
+
+Sau khi tổng kết xong các yêu cầu, Trương Vũ cảm thán: Cuộc thử nghiệm này chính là sát hạch các kỹ năng cơ bản trong việc luyện chế pháp bảo.
+
+Di chuyển, dò tìm, tải trọng, vận chuyển, độ bền, giá thành… bất kỳ phương diện nào không ổn, thành tích sẽ rất khó coi.
+
+Ngay cả đối với mình cũng có độ khó không nhỏ nha.
+
+Trương Vũ không bắt tay vào thiết kế ngay lập tức mà xây dựng kế hoạch làm việc trong đầu. Hắn hiểu rằng nếu chỉ dựa vào năng lực cơ bản hiện có để thiết kế, chưa chắc đã đảm bảo được vị trí Top 10.
+
+Nhưng may mà mình thiên phú hơn người, có sự hỗ trợ của Thiên Công Khai Vật và Linh Vận Khí Tâm, cực kỳ thích hợp dùng ở đây.
+
+Trương Vũ vừa suy nghĩ vừa lật xem tài liệu tham khảo. Hắn phát hiện ngoài các tư liệu kỹ thuật luyện khí, còn có đủ loại bản vẽ pháp bảo để tham khảo.
+
+Từ việc cung cấp tài liệu tham khảo, có vẻ ban tổ chức cũng khuyến khích thí sinh vừa thi vừa học, không kỳ vọng chúng ta hoàn toàn dựa vào những thứ tích lũy sẵn trong đầu.
+
+Trong lòng Trương Vũ dần nảy ra ý tưởng: Trước tiên sàng lọc bản vẽ, tìm ra các loại pháp bảo có thể đáp ứng thử nghiệm, sau đó dùng Linh Vận Khí Tâm để dung hợp chúng lại, lấy được một bản vẽ có khả năng đạt thành tích tốt nhất. Sau đó dùng Thiên Công Khai Vật để tối ưu hóa, sửa chữa các khiếm khuyết trong thiết kế.
+
+Nghĩ đến đây, Trương Vũ gật đầu: Vậy điều quan trọng nhất bây giờ là lựa chọn bản vẽ.
+
+Trương Vũ hiểu rằng Linh Vận Khí Tâm có giới hạn số lần sử dụng trong một khoảng thời gian nhất định. Mỗi lần sử dụng thiên phú này đều tiêu hao linh cảm trong đại não. Theo kinh nghiệm của bản thân, hắn chỉ có thể dùng tối đa mười mấy lần, dùng càng nhiều thì tư duy càng trở nên trì trệ, thường phải nghỉ ngơi vài tuần mới khôi phục hoàn toàn.
+
+Từ sau khi hoàn thành thiết kế Ủng động lực Phong Thần, mình vẫn chưa dùng lại Linh Vận Khí Tâm.
+
+Hiện giờ dùng khoảng mười lần chắc không thành vấn đề.
+
+Trương Vũ hiểu rõ, vì số lần có hạn nên việc chọn bản vẽ để dung hợp rất quan trọng.
+
+Các bản vẽ cùng loại dễ ra kết quả tốt hơn.
+
+Nhưng nếu quá giống nhau thì dung hợp còn ý nghĩa gì?
+
+Trương Vũ hiểu rằng sự cân bằng trong việc này cần chính hắn tự nắm bắt. Chớp mắt 6 tiếng đã trôi qua, vào khoảnh khắc cuối cùng, Trương Vũ đã hoàn thành bản thiết kế. Hắn xoa xoa cái đầu hơi choáng váng, nhưng khóe miệng dần hiện lên một nụ cười hài lòng.
+
+Trong một phòng họp của Linh giới.
+
+Thân ảnh Huyền Âm chân nhân hiện ra, trước mặt ông, ảnh chiếu của các giám khảo khác cũng lần lượt xuất hiện.
+
+Nghiệt Liên chân nhân của đại học Thiên Ma thản nhiên nói: Chư vị, bản vẽ thiết kế của 15 thí sinh đã hoàn thành và được thu thập đầy đủ.
+
+Tiếp theo, Chính Thần sẽ tiến hành mô phỏng Linh giới, hoàn thành thử nghiệm mô phỏng cho 15 món pháp bảo trong môi trường Linh giới.
+
+Cuộc thử nghiệm này dựa trên nguyên tắc công bằng, chính trực, công khai, thực hiện nghiêm ngặt theo quy tắc. Từ đầu đến cuối, bất kể là quá trình thiết kế của sinh viên hay cuộc trò chuyện, chấm điểm của giám khảo đều sẽ được ghi lại toàn bộ.
+
+Hy vọng chư vị dốc hết sức mình để tuyển chọn nhân tài ưu tú cho Côn Khư.
+
+Ta cũng xin bày tỏ thái độ: tiếp theo bất kể sinh viên thể hiện thế nào, bất kể sau lưng họ có nhân vật lớn nào chống lưng, được là được, không được là không được. Hôm nay có ta ở đây, đừng ai mong làm loạn tại cuộc thi thiết kế lần này.
+
+Nghe những lời này của Nghiệt Liên chân nhân, Huyền Âm chân nhân luôn cảm thấy đối phương có ẩn ý, dường như đang ám chỉ chuyện của Từ Cực chân nhân và Trương Vũ. Tuy nhiên lúc này Huyền Âm chân nhân không mấy tin tưởng vào Trương Vũ, lại thêm xung quanh có không biết bao nhiêu Chính Thần đang ghi hình từ mọi góc độ, ông càng không dám mở miệng nói bừa.
+
+Huyền Âm chân nhân chỉ có thể thầm nhủ: Từ Cực, tốt nhất bà đã bổ túc kỹ cho thằng nhóc Trương Vũ này rồi, ít nhất cũng phải lấy được Top 10, nếu không lần này trước mặt các trường khác và Thiên Đình thì mất mặt lớn rồi.
+
+Khoảnh khắc sau, cùng với một luồng sáng lướt qua, cuộc thử nghiệm mô phỏng chính thức bắt đầu. Cả phòng họp trong Linh giới giống như dịch chuyển tức thời, chớp mắt đã tới không trung của một khu rừng rậm.
+
+Huyền Âm chân nhân cúi xuống nhìn, thấy ngoài khu rừng không xa là một bãi cát, cách bãi cát một đoạn lại là một hồ nước… Địa hình phức tạp trong phạm vi mười cây số này chính là môi trường thử nghiệm được mô phỏng.
+
+Cùng lúc đó, Nghiệt Liên chân nhân lên tiếng: Món pháp bảo thử nghiệm đầu tiên do Lạnh Vô Nhai của đại học Thiên Kiếm thiết kế.
+
+Trước mặt các giám khảo, từng bản vẽ thiết kế của Lạnh Vô Nhai hiện ra. Huyền Âm chân nhân liếc qua, thầm nghĩ: Phi kiếm sao?
+
+Giây tiếp theo, trên bầu trời bãi thử, vô số vật chất hiện ra giữa hư không. Sau đó, như được gia tốc hàng trăm hàng nghìn lần, quy trình luyện khí hoàn thành với tốc độ phi thường, hiển thị thanh phi kiếm trong bản vẽ trước mặt mọi người.
+
+Chỉ nghe một tiếng vút nhẹ, thanh phi kiếm xé toạc các tầng rào cản âm thanh, mang theo tiếng sấm rền lướt qua bầu trời bãi thử. Dù trên không trung thỉnh thoảng có lôi hỏa giáng xuống, nhưng đều bị phi kiếm dễ dàng né tránh.
+
+Thiên Trí chân nhân đến từ đại học Kim Cương nhận xét: Chồng chất nhiều tầng cấm chế, cộng thêm thiết kế mũi kiếm phá không và lực đẩy điện từ, thanh kiếm này có thể duy trì hành trình siêu thanh trong thời gian dài.
+
+Cùng lúc đó, phi kiếm lao xuống mặt đất, bắt đầu bay tốc độ cao sát đất. Huyền Âm chân nhân khen ngợi: Thiết kế phản trọng lực phối hợp điều khiển bay tự thích ứng, khả năng né tránh rất mạnh, có thể bay sát đất trong địa hình phức tạp để dò tìm mục tiêu.
+
+Khoảnh khắc sau, từng đạo kiếm khí bắn ra từ phi kiếm, cuốn các khối lập phương vào bên trong. Thấy kiếm khí mang theo lượng lớn vật thể rồi đột ngột giảm tốc bay về phía đích, Huyết Bộc chân nhân của đại học U Minh thản nhiên nói: Kiếm khí hợp nhất, đây là kỹ thuật chở người phải không? Dùng vào vận chuyển hàng hóa thì hoàn toàn không có hiệu năng trên giá thành .
+
+Thực Tủy chân nhân của đại học Bạch Cốt lắc đầu: Nói cho cùng, phi kiếm dùng để trinh sát thì tốt, chứ vận chuyển đồ vật thì không nên làm kiểu này.
+
+Thiên Trí chân nhân đoán: Có lẽ cậu ta muốn dựa vào tốc độ để vận chuyển nhiều lần. Nhưng cậu ta không thiết kế bộ nhớ địa hình, mỗi lần đều phải dò tìm lại, tần suất vận chuyển này quá thấp.
+
+Huyền Âm chân nhân thầm nghĩ: Tuy vận chuyển không xuất sắc nhưng ít nhất cũng hoàn thành đủ chức năng, cho một điểm trung bình khá là không vấn đề.
+
+Sau khi thử nghiệm kết thúc, năm vị giám khảo lần lượt chấm điểm, mỗi người tối đa 100 điểm, tổng cộng 500 điểm. Thanh phi kiếm này đạt tổng 322 điểm.
+
+Tiếp theo là tác phẩm của một sinh viên đại học Kim Cương. Đó là một chiếc chiến xa hạng nặng càn quét bãi thử, dọc đường kích phát cương khí phá tan chướng ngại, thu nạp vật phẩm và đưa về đích.
+
+Nghiệt Liên chân nhân nhận xét: Dùng vật liệu cường độ cao để chống đỡ lôi hỏa, dùng dung lượng và tải trọng lớn nhất để thu thập vật phẩm tối đa. Ý tưởng tốt, nhưng tốc độ quá chậm, khả năng thích ứng địa hình quá kém.
+
+Ông ta lắc đầu: Thu thập được một đống đồ nhưng đến khi hết giờ vẫn chưa vận chuyển xong một phần ba… 65 điểm đi.
+
+Tổng điểm cho chiếc chiến xa này là 329 điểm.
+
+Sau thêm vài thí sinh nữa, tác phẩm của Táng Tinh Dã – sinh viên đại học U Minh xuất hiện. Nhìn nội dung bản thiết kế, Huyền Âm chân nhân khẽ động tâm: Kỹ thuật mô phỏng sinh học yêu duệ?
